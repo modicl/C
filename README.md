@@ -1,6 +1,6 @@
 # Ejercicios lenguaje C
  Ejercicios y algoritmos creados en C para el curso CS50.
- 
+ Uso la libreria cs50.h la cual "ayuda" un poco en algunas funciones.
  ## cash.c
  Algoritmo en el cual dependiendo de cuantos centavos le debemos al cliente nos dirá cuantas monedas en total necesitaremos
  
