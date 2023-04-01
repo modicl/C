@@ -9,3 +9,6 @@
  
  ## mario.c
  Ejercicio en donde dependiendo del input del usuario creamos un bloque a lo mario de NES.
+
+ ## substitution.c
+ Algoritmo en el cual debí crear una cipher que tome una llave de 26 letras unicas y convierte el texto entregado, ademas se preocupa de que la llave solo tenga letras y considera si estas son minusculas o mayusculas. Este es un ejercicio considerado "dificil" en el curso CS50x para la Unidad 2 de Arrays.
