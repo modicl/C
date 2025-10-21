@@ -5,7 +5,7 @@
 # Colección de ejercicios en C (CS50)
 Una recopilación de ejercicios y pequeños proyectos en C usados para practicar conceptos de programación de sistemas. Algunos usan la librería auxiliar `cs50.h`; todos están pensados para ser didácticos pero con retos no triviales.
 
-Resumen conciso de cada ejercicio (raíz y carpetas). Los describo de forma breve y —con un toque— intimidante.
+Resumen conciso de cada ejercicio (raíz y carpetas)
 
 Archivos en la raíz:
 
